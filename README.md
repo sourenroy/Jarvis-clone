@@ -1,2 +1,2 @@
-# Jarvis-clone
-This is a clone of jarvice using python
+# Jervis-clone
+This is a clone of jervice using python
